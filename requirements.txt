@@ -1,0 +1,8 @@
+# To install TensorFlow with GPU support, please visit this site: https://www.tensorflow.org/install/pip
+tensorflow[and-cuda]
+pillow
+SciPy
+matplotlib
+pandas
+numpy
+opencv-python
